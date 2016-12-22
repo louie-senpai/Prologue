@@ -1,0 +1,2 @@
+# Prologue
+WordPress Theme Prologue
